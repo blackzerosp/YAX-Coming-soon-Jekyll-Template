@@ -9,11 +9,24 @@ locales:
     Hours: "Hours"
     Minutes: "Minutes"
     Seconds: "Seconds"
-    Learn_More: "Learn More"
+    Learn_More: ""
   en_US: 
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK: 
     <<: *DEFAULT_EN     # use English translation for en_UK
+  
+  # Turkish translation
+  # -------------------  
+  en: &DEFAULT_TR
+    Days: "Gün"
+    Hours: "Saat"
+    Minutes: "Dakika"
+    Seconds: "Saniye"
+    Learn_More: ""
+  tr_TR: 
+    <<: *DEFAULT_TR     # use English translation for en_US
+ 
+    
     
   # German translation
   # -------------------  
@@ -23,7 +36,7 @@ locales:
     Hours: "Stunden"
     Minutes: "Minuten"
     Seconds: "Sekunden"
-    Learn_More: "Mehr erfahren:"
+    Learn_More: ""
   de_DE:
     <<: *DEFAULT_DE     # use German translation for de_DE
     
@@ -35,7 +48,7 @@ locales:
    Hours: "Heures"
    Minutes: "Minutes"
    Seconds: "Secondes"
-   Learn_More: "En savoir plus"
+   Learn_More: ""
   fr_FR:
     <<: *DEFAULT_FR
 
