@@ -22,7 +22,7 @@ locales:
     Hours: "Saat"
     Minutes: "Dakika"
     Seconds: "Saniye"
-    Learn_More: ""
+    Learn_More: "Takipte kalın..."
   tr_TR: 
     <<: *DEFAULT_TR     # use English translation for en_US
  
