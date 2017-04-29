@@ -9,7 +9,7 @@ author:
 
 #Target date in UTC / GMT
 countdown:
-  theme: red
+  theme: blue
   year: 2017
   month: 5
   day: 15
